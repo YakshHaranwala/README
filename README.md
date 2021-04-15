@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshHaranwala&layout=compact)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YakshHaranwakaa&repo=README)](https://github.com/YakshHaranwala/README)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YakshHaranwala&repo=README)]
