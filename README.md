@@ -1,2 +1,2 @@
 # GitHub Stats
-![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwalaa&show_icons=true&theme=dracula)
+![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&show_icons=true&theme=dracula)
