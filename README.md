@@ -4,7 +4,7 @@ Currently, I am a Computer Science student at the Memorial University of Newfoun
 # ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YakshHaranwala-github.profile)
 
 # My GitHub Stats
-![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&count_private=true&theme=radical&include_all_commits=true)
+![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&count_private=true&theme=radical&include_all_commits=true&show_icons=true)
 
 
 # Languages:
