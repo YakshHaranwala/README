@@ -1,6 +1,8 @@
 # Hi there, I'm Yaksh! 👋
 Currently, I am a Computer Science student at the Memorial University of Newfoundland, Canada.
+<br>
 I am currently a Research Intern at the Department of Computer Science, Memorial University of Newfoundland.
+<br>
 My research intern includes Mobility data processing, mining and visualizing.
 
 # My GitHub Stats
