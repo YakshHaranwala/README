@@ -6,7 +6,7 @@ I am currently a Research Intern at the Department of Computer Science, Memorial
 My research intern includes Mobility data processing, mining and visualizing.
 
 # My GitHub Stats
-![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&count_private=true&theme=radical&include_all_commits=true&show_icons=true)
+![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&theme=radical&include_all_commits=true&show_icons=true&count_private=true)
 
 # Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshHaranwala&layout=compact&theme=radical)]
