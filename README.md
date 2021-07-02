@@ -9,4 +9,4 @@ My research interest includes Mobility data processing, mining and visualizing.
 ![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&theme=dark&include_all_commits=true&show_icons=true&count_private=true)
 
 # Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshHaranwala&layout=compact&theme=radical)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshHaranwala&layout=compact&theme=dark)]
