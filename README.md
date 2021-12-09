@@ -7,7 +7,7 @@ Mobility Data Visualization.
 <ul>
   <li> I love writing Python and I focus on task parallelization. </li>
   <li> I find Data Visualization fascinating since it essentially tells a story about the Data on hand </li>
-  <li> Get in touch with me <a href='www.linkedin.com/in/yjharanwala'> here </a> </li>
+  <li> Get in touch with me <a href='https://www.linkedin.com/in/yjharanwala'> here </a> </li>
 </ul>
   
 
