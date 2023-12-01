@@ -9,7 +9,7 @@ My Interest include:
   
 
 # GitHub Stats
-![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&theme=dark&include_all_commits=false&show_icons=true&count_private=true)
+![Yaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakshHaranwala&theme=dark&include_all_commits=true&show_icons=true&count_private=true)
 
 # Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakshHaranwala&layout=compact&theme=dark)
