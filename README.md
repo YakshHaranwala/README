@@ -1,14 +1,11 @@
 # Hi there, I'm Yaksh Haranwala! 👋
-Currently, I am a Computer Science student at the Memorial University of Newfoundland, Canada.
-<br>
-I am currently conducting research in the field of Big Mobility Data and my main focus includes Mobility Data Preprocessing and
-Mobility Data Visualization.
-<br>
-<ul>
-  <li> I love writing Python and I focus on task parallelization. </li>
-  <li> I find Data Visualization fascinating since it essentially tells a story about the Data on hand </li>
-  <li> Get in touch with me <a href='https://www.linkedin.com/in/yjharanwala'> here </a> </li>
-</ul>
+Currently, I am a Computer Science student at the Memorial University of Newfoundland, Canada and a Full Stack Software Engineer as Nasdaq Inc.
+
+My Interest include:
+- Mobility Data Analysis and Mining
+- Financial Data Analysis
+- Anti-Money Laundering and Fraud Detection Algorithms
+- Task Parallelization and Vectorization
   
 
 # GitHub Stats
